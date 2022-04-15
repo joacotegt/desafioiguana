@@ -1,0 +1,112 @@
+* {
+  padding: 0;  
+  margin: 0;
+  border: 0;
+}
+body {
+    font-family: 'Raleway', sans-serif;   
+    color: white;
+    width: 1280px;
+    margin: 0 auto;
+}
+header {
+    height: 73px;
+    background-color: black;
+    overflow: hidden;    
+}
+header h1 {
+    font-weight: normal;
+    font-size: 59px;
+    text-align: center;
+    margin-top: 7px;
+}
+#fondo_iguana {
+        height: 727px;
+        background-image: url(../img/bg-header.jpg);
+}
+#descripcion_iguana {
+    height: 348px;
+    background-color: black;
+    overflow: hidden;
+    
+}
+#descripcion_iguana #texto_descripción_iguana {
+    font-size: 16px;
+    font-weight: 300;
+    width: 475px;
+    height: 197px;
+    margin-left: 150px;
+    margin-top: 76px;
+    margin-right: 106px;
+    float: left;
+}
+#descripcion_iguana div {
+    width: 399px;
+    height: 237px;
+    float:left;
+    margin-top: 45px;
+} 
+#descripcion_iguana div img{
+    width: 100%;
+    height: 100%;
+}
+#caracteristicas_iguana {
+    height: 348px;
+    background-color:#1e1a13;
+    overflow: hidden; 
+    font-size: 24px;
+    
+}
+#caracteristicas_iguana #caracteristicas_iguana2 h2 {
+    font-size: 47px;
+    font-weight: 300;
+    width: 475px;
+    height: 197px;
+    margin-left: 442px;
+    margin-top: 75px;
+    margin-right: 462px;
+    float: left;
+}
+#caracteristicas_iguana #iconos_iguana div {
+    float: left;
+    text-align: center;
+    margin-left: 222px;
+    margin-bottom: 60px;
+ 
+}
+
+#fotos_iguana {
+    height: 348px;
+    background-color:black;
+    overflow: hidden; 
+    font-size: 47px; 
+}
+
+#fotos_iguana2 {
+    width: 100%;
+    height: 100%;
+    float: left;
+    margin-top: 73px;
+    margin-left: 55px;
+}
+
+#vinculo {
+    height: 102px;
+    background-color:#1e1a13;  
+    overflow: hidden;
+}
+footer h3 {
+    height: 73px;
+    background-color: #1e1a13;
+    font-weight: normal;
+    font-size: 20px;
+    text-align: center;
+    margin-top: 39px;   
+}
+
+#iconos_iguana {
+    margin-bottom: 20px ;
+}
+#contenedor_caracteristicas_iguana {
+    margin-bottom: 50px;
+}
